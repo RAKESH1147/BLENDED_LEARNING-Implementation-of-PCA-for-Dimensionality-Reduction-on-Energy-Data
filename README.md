@@ -88,4 +88,3 @@ plt.show()
 
 ## Result:
 Thus, Principal Component Analysis (PCA) was successfully implemented to reduce the dimensionality of the energy dataset.
-](https://github.com/RAKESH1147/BLENDED_LEARNING-Implementation-of-PCA-for-Dimensionality-Reduction-on-Energy-Data)
